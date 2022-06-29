@@ -4,7 +4,7 @@
  */
 
 #include <stdio.h>
-/*
+/*********
  *This file prints the memory size of the prmitivitive data types
  *
  *Returns 0i
