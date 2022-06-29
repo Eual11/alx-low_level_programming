@@ -4,8 +4,8 @@
  */
 
 #include <stdio.h>
-/*********
- * main- This file prints the memory size of the prmitivitive data types
+/**
+ * main - This file prints the memory size of the prmitivitive data types
  *
  * Return 0.
  */
