@@ -6,10 +6,14 @@
 
 #include <stdio.h>
 int main(void)
-	/**
-	 *this program prints with proper grammar, but the outcome is a piece of art
-	 *and a new line 
-	 */
+
+`:wq/**
+ * main - Prints "with proper grammar, but the outcome is
+ *                a piece of art," followed by a new line.
+ *
+ * Return: Always 0.
+ */
+
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 
