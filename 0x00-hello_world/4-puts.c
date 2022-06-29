@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc,char *argv[])
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 
