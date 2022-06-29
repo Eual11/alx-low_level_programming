@@ -7,7 +7,7 @@
 /**
  * main - This file prints the memory size of the prmitivitive data types
  *
- * Return 0.
+ * Return: 0.
  */
 int main(void)
 {
