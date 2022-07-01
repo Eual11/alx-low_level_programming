@@ -1,6 +1,6 @@
 /*
  * File: 9-print_comb.c
- * Auth: Eual G
+ * Auth: EUAL G
  */
 
 #include <stdio.h>
