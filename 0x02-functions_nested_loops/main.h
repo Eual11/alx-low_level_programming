@@ -6,5 +6,6 @@
  * Return: Always one character to the stream.
  */
 int _putchar(char c);
+void print_alphabet(void);
 
 #endif

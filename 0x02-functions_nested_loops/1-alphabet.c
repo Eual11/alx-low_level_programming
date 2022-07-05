@@ -1,11 +1,32 @@
 #include "main.h"
 #include <unistd.h>
 /**
- * _putchar - Prints the whole alphabet and new line
- *@c: char
+ * main - shit.
  * Return: 0
- */
-void _putchar(char c)
+*/
+
+/**
+ * _putchar - ddd
+ *
+ *Return: 0 alwaus
+*/
+
+
+int _putchar(char c)
 {
 	return (write(1, &c, 1));
+}
+void print_alphabet(void)
+{
+	char c;
+
+	for (c = 'a'; c <= 'z'; ++c)
+		_putchar(c);
+	_putchar('\n');
+}
+int main(void)
+{
+	print_alphabet();
+
+	return (0);
 }
