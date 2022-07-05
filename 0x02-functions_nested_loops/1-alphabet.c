@@ -1,7 +1,7 @@
 #include "main.h"
 #include <unistd.h>
 /**
- * main - shit.
+ * print_alphabet - shit.
  * Return: 0
 */
 
