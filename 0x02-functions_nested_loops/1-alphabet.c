@@ -5,17 +5,6 @@
  * Return: 0
 */
 
-/**
- * _putchar - ddd
- *
- *Return: 0 alwaus
-*/
-
-
-int _putchar(char c)
-{
-	return (write(1, &c, 1));
-}
 void print_alphabet(void)
 {
 	char c;
