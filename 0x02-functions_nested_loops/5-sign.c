@@ -1,5 +1,4 @@
-#include "main.c"
-#include <unistd.h>
+#include "main.h"
 /**
  * print_sign - Prints the sign of a num
  * @n: char
@@ -20,6 +19,7 @@ int print_sign(int n)
 
 	else
 		_putchar('-');
+
 
 	return (-1);
 }
