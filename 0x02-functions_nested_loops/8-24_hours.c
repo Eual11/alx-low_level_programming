@@ -32,4 +32,4 @@ void jack_bauer(void)
 		}
 		l += 1;
 	}
-	return (0);
+}
