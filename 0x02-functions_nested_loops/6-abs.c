@@ -1,4 +1,5 @@
-#include "main.c"
+#include "main.h"
+
 /**
  * _abs - absolute
  * @n: num
