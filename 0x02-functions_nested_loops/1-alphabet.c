@@ -1,5 +1,5 @@
 #include "main.h"
-#include <int
+#include <unistd.h>
 /**
  * _putchar - Prints the whole alphabet and new line
  *@c: char
