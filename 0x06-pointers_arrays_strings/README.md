@@ -1,0 +1,1 @@
+str arr ptr
