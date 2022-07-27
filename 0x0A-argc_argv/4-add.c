@@ -19,8 +19,16 @@ int main(int argc, char *argv[])
 	{
 		if (!(atoi(argv[i])))
 		{
-			printf("Error\n");
-			return (1);
+			int j = 0;
+
+			for (; argv[i][j] != '\0'; )
+			{
+				if (argv[i][j] > 57)
+			{
+					printf("Error\n");
+					return (1);
+			}
+		}
 		}
 
 		sum += atoi(argv[i]);
